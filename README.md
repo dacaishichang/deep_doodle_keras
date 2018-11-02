@@ -11,6 +11,8 @@ you should collect some pictures to train (portray)
 
 `windows`
 
+and create three folders :MEN save_picture YB_PICTURES
+
 ### procession
 
 generate data
